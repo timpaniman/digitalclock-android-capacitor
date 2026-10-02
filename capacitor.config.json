@@ -1,0 +1,8 @@
+{
+  "appId": "com.digitalclock.android",
+  "appName": "Digital Clock",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
